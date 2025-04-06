@@ -1,0 +1,15 @@
+/Users/sainani/Projects/Loops/Loops/bin/Debug/net7.0/Loops
+/Users/sainani/Projects/Loops/Loops/bin/Debug/net7.0/Loops.deps.json
+/Users/sainani/Projects/Loops/Loops/bin/Debug/net7.0/Loops.runtimeconfig.json
+/Users/sainani/Projects/Loops/Loops/bin/Debug/net7.0/Loops.dll
+/Users/sainani/Projects/Loops/Loops/bin/Debug/net7.0/Loops.pdb
+/Users/sainani/Projects/Loops/Loops/obj/Debug/net7.0/Loops.csproj.AssemblyReference.cache
+/Users/sainani/Projects/Loops/Loops/obj/Debug/net7.0/Loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sainani/Projects/Loops/Loops/obj/Debug/net7.0/Loops.AssemblyInfoInputs.cache
+/Users/sainani/Projects/Loops/Loops/obj/Debug/net7.0/Loops.AssemblyInfo.cs
+/Users/sainani/Projects/Loops/Loops/obj/Debug/net7.0/Loops.csproj.CoreCompileInputs.cache
+/Users/sainani/Projects/Loops/Loops/obj/Debug/net7.0/Loops.dll
+/Users/sainani/Projects/Loops/Loops/obj/Debug/net7.0/refint/Loops.dll
+/Users/sainani/Projects/Loops/Loops/obj/Debug/net7.0/Loops.pdb
+/Users/sainani/Projects/Loops/Loops/obj/Debug/net7.0/Loops.genruntimeconfig.cache
+/Users/sainani/Projects/Loops/Loops/obj/Debug/net7.0/ref/Loops.dll
