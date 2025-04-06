@@ -1,0 +1,15 @@
+/Users/sainani/Projects/Whileloop/Whileloop/obj/Debug/net7.0/Whileloop.csproj.AssemblyReference.cache
+/Users/sainani/Projects/Whileloop/Whileloop/obj/Debug/net7.0/Whileloop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sainani/Projects/Whileloop/Whileloop/obj/Debug/net7.0/Whileloop.AssemblyInfoInputs.cache
+/Users/sainani/Projects/Whileloop/Whileloop/obj/Debug/net7.0/Whileloop.AssemblyInfo.cs
+/Users/sainani/Projects/Whileloop/Whileloop/obj/Debug/net7.0/Whileloop.csproj.CoreCompileInputs.cache
+/Users/sainani/Projects/Whileloop/Whileloop/bin/Debug/net7.0/Whileloop
+/Users/sainani/Projects/Whileloop/Whileloop/bin/Debug/net7.0/Whileloop.deps.json
+/Users/sainani/Projects/Whileloop/Whileloop/bin/Debug/net7.0/Whileloop.runtimeconfig.json
+/Users/sainani/Projects/Whileloop/Whileloop/bin/Debug/net7.0/Whileloop.dll
+/Users/sainani/Projects/Whileloop/Whileloop/bin/Debug/net7.0/Whileloop.pdb
+/Users/sainani/Projects/Whileloop/Whileloop/obj/Debug/net7.0/Whileloop.dll
+/Users/sainani/Projects/Whileloop/Whileloop/obj/Debug/net7.0/refint/Whileloop.dll
+/Users/sainani/Projects/Whileloop/Whileloop/obj/Debug/net7.0/Whileloop.pdb
+/Users/sainani/Projects/Whileloop/Whileloop/obj/Debug/net7.0/Whileloop.genruntimeconfig.cache
+/Users/sainani/Projects/Whileloop/Whileloop/obj/Debug/net7.0/ref/Whileloop.dll
